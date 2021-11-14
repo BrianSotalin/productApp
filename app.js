@@ -13,7 +13,7 @@ class UI {
         element.innerHTML = `
       <div class="card text-center mb-4">
       <div class="card-body">
-<strong>Videojuego:  </strong>: ${product.name}
+<strong>Nombre del videojuego:  </strong>: ${product.name}
 <strong>Precio:  </strong>: ${product.price}
 <strong>Año: </strong>: ${product.year}
 <a href="#" class= "btn btn-danger" name="delete">Eliminar</a>
